@@ -19,7 +19,7 @@ sidebar-avatar: /img/github blog首页.jpg      # use absolute URL, seeing it's 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    wulianhuangtonxue
 csdn_username:      weixin_54891898
