@@ -18,7 +18,7 @@ sidebar-avatar: /img/github blog首页.jpg      # use absolute URL, seeing it's 
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    wulianhuangtonxue
@@ -96,7 +96,7 @@ service-worker: true
 
 
 
-Friends
+# Friends
 friends: [
     {
         title: "CSDN 物联黄同学",
