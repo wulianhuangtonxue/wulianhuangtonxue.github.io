@@ -1,3 +1,19 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Leetcode每日一题-格雷编码 				# 标题 
+subtitle:   每日一题 #副标题
+date:       2022-1-8 				# 时间
+author:     物联黄同学 						# 作者
+header-img: img/blog-img.png 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - C++
+    - Leetcode
+    - 每日一题
+    - Gray Code
+---
+
+
 # 2022-1-8 Leetcode每日一题 格雷编码
 
 > 打打每日一题，顺便拓宽知识面了解什么是Gray Code
