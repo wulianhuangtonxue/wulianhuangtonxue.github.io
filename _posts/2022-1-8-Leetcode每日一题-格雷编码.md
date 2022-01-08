@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Leetcode每日一题-格雷编码 				# 标题 
+title:      Leetcode每日一题 格雷编码 				# 标题 
 subtitle:   每日一题 #副标题
 date:       2022-1-8 				# 时间
 author:     物联黄同学 						# 作者
