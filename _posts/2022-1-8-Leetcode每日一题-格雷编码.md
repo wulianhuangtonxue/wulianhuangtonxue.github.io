@@ -11,6 +11,8 @@ tags:								#标签
     - Leetcode
     - 每日一题
     - Gray Code
+    - 位运算
+    - 数学
 ---
 
 
