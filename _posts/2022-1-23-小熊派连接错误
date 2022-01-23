@@ -1,0 +1,38 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      小熊派开发板 				# 标题 
+subtitle:   连接错误 #副标题
+date:       2022-1-23 				# 时间
+author:     物联黄同学 						# 作者
+header-img: img/blog-img.png 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 单片机
+    - 硬件错误
+---
+
+# 小熊开发板STM32工具出现错误Error：an error occured while uploading data from the virtual partition 0xF1
+
+> 最近在做小熊派开发板时，使用STM32Cube工具出现烧录连接问题，在此附上解决方案
+
+![LpAqnQ.png](https://s6.jpg.cm/2022/01/23/LpAqnQ.png)
+
+
+
+翻译：错误：执行此操作时发生错误，正在从虚拟分区0xF1上载数据
+
+
+
+### 错误原因：
+
+1. 使用的文件路径不对，建议严格参照开发文档指示的路径进行烧录
+2. 开发板连接接口问题，笔者一开始使用了分线器，USB2.0接口，这样可能会使传输数读减慢，影响虚拟串口的分区，从而出现图示错误，可以使用3.0接口就可以避免该问题
+
+
+
+### 附言
+
+> 这周事情比较多，有时间再开启高产模式
+
+
+
