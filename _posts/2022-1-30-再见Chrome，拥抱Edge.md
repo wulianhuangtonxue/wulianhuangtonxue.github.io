@@ -82,7 +82,8 @@ ipconfig/flushdns
 
 > 当然，笔者不是没有想过使用别的浏览器，对于笔者而言，用的最多除了Chrome，就是联想浏览器了，但是Chrome笔者实在太喜欢用了，而且实在是太舒服了。但是也许是因为Chrome浏览器永久了，有点臃肿了，或者可能就是犯病了，笔者现在开始使用起别的浏览器。于是乎——Edge这款一直在我电脑里，我却很少用的浏览器，终于被我发掘了，完成配置的一瞬间我i惨了。
 
-![image-20220130173306414](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20220130173306414.png)
+![image](https://user-images.githubusercontent.com/88485359/151696110-13d68c74-07c1-4f44-b103-60d7a0667c98.png)
+
 
 使用了几下之后，真的爱惨了这款最新的Edge了，无论是ui，还是界面都无限接近Chrome，而且还比Chrome还要流畅（后面知道是几乎一样的内核），挂上vpn，简直无压力访问诸如Github，Youtube，不愧是微软自带的浏览器，我只能说——NB！
 
@@ -124,8 +125,7 @@ ipconfig/flushdns
 
 好处，每天自动换肤，给笔者进行审美推荐，其次就是功能啥的也较多
 
-![image-20220130173306414](C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20220130173306414.png)
-
+![Uploading image.png…]()
 笔者现在也是基本上用它的，简直不要太舒服
 
 当然，很多时候，可能会略显臃肿，功能丰富带来debuff，只能说鱼和熊掌不可兼得。
@@ -166,7 +166,7 @@ ipconfig/flushdns
 
 > 和Chrome差不多，还比Chrome快，更何况Chrome现在还用不了
 >
-> 那还想什么，还不快和我一样，再将Chrome，拥抱Edge！
+> 那还想什么，还不快和我一样，再将Chrome，拥抱Edge！ 
 
 
 
